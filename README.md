@@ -20,6 +20,7 @@
   </div>
   <div class="row">
     <br/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%230c4b33">
     <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1">
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791">
   </div>
