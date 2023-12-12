@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=101010">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=007396&color=yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&color=%23232f3e">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23f54d27">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white">
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1">
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791">
