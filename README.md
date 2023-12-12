@@ -12,5 +12,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=007396&color=yellow">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1">
-<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=%23336791">
+<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791">
 
