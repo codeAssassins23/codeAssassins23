@@ -29,7 +29,10 @@
 <div class="container-fluid">
   <div class="row">
     <a href="https://www.facebook.com/victorhugo.bravogarcia/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
-    <a href="www.linkedin.com/in/victor-hugo-bravo-garcia-99661b272" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230A66C2&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
+    <a href="https://www.linkedin.com/in/victor-hugo-bravo-garcia-99661b272/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230A66C2&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
+    <a href="https://www.instagram.com/vitorugo26/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=%23E4405F"></a>
+    <a href="https://api.whatsapp.com/send?phone=51944469094&text=Hello%20Victor%20Bravo%2C%20I%20am%20writing%20to%20you%20from%20GitHub%2C%20with%20the%20purpose%20of%20..." target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black&color=%2325D366"></a>
+
   </div>
 </div>
 
