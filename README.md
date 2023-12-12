@@ -25,3 +25,10 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791">
   </div>
 </div>
+<h2>Meet me at</h2>
+<div class="container-fluid">
+  <div class="row">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F">
+  </div>
+</div>
+
