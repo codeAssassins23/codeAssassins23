@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=101010">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=007396&color=yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&color=%23232f3e">
+  </div>
+  <div class="row">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23f54d27">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&labelColor=%231c85ed&color=black">
