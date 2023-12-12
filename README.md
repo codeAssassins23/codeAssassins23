@@ -28,7 +28,8 @@
 <h2>Meet me at</h2>
 <div class="container-fluid">
   <div class="row">
-    <a href="https://www.facebook.com/tu_nombre_de_usuario" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
+    <a href="https://www.facebook.com/victorhugo.bravogarcia/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
+    <a href="www.linkedin.com/in/victor-hugo-bravo-garcia-99661b272" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230A66C2&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
   </div>
 </div>
 
