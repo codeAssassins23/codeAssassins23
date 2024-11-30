@@ -1,38 +1,56 @@
-# Hello world, my name is Victor Hugo 👋
+# 👋 Hi, I'm Víctor Hugo Bravo García!
+### 🌟 Backend Developer | IoT Solutions Specialist | AI Enthusiast
 
+---
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h2>Technologies</h2>
-<div class="container-fluid">
-  <div class="row">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010"/>
-    <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=101010">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=007396&color=yellow">
-    <img alt="Static Badge" src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&color=%23232f3e">
-  </div>
-  <div class="row">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23f54d27">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white&labelColor=%231c85ed&color=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Linux_Fedora-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=%232b4578">
-  </div>
-  <div class="row">
-    <br/>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%230c4b33">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791">
-  </div>
-</div>
-<h2>Meet me at</h2>
-<div class="container-fluid">
-  <div class="row">
-    <a href="https://www.facebook.com/victorhugo.bravogarcia/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
-    <a href="https://www.linkedin.com/in/victor-hugo-bravo-garcia-99661b272/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230A66C2&link=https%3A%2F%2Fwww.facebook.com%2Fvictorhugo.bravogarcia%2F"></a>
-    <a href="https://www.instagram.com/vitorugo26/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=%23E4405F"></a>
-    <a href="https://api.whatsapp.com/send?phone=51944469094&text=Hello%20Victor%20Bravo%2C%20I%20am%20writing%20to%20you%20from%20GitHub%2C%20with%20the%20purpose%20of%20..." target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black&color=%2325D366"></a>
+Welcome to my GitHub profile! 🚀 I'm a backend developer passionate about crafting scalable, secure, and efficient solutions. My expertise spans developing APIs, microservices, and full-stack applications, focusing on clean code and modern architectures.
 
-  </div>
-</div>
+---
 
+## 🔧 Technologies & Tools
+
+### Languages & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Tools & Cloud Services
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeAssassins23&show_icons=true&theme=tokyonight" alt="Victor's GitHub stats" />
+</p>
+
+---
+
+## 🏅 Achievements
+- 2nd place academic performance in the 5th and 9th cycle (Universidad Nacional de San Martín)
+- Developed scalable sales systems during academic projects
+- Vice President of the Electoral Committee (Faculty of Systems Engineering)
+
+---
+
+## 📫 Let's Connect!
+- 📧 Email: [bravovictorhugo11@gmail.com](mailto:bravovictorhugo11@gmail.com)
+- 🌐 LinkedIn: [Víctor Hugo Bravo García](https://linkedin.com/in/victor-hugo-bravo-garcia)
+- 💻 GitHub: [codeAssassins23](https://github.com/codeAssassins23)
+
+---
+
+Let's collaborate and build something amazing together! 🌟
