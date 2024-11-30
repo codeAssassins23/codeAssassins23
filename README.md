@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Víctor Hugo Bravo García!
+<h1 align="center">👋 Hi, I'm Víctor Hugo Bravo García!</h1>
 ### 🌟 Backend Developer | IoT Solutions Specialist | AI Enthusiast
 
 ---
