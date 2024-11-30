@@ -2,7 +2,6 @@
 ### 🌟 Backend Developer | IoT Solutions Specialist | AI Enthusiast
 
 ---
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/codeAssassins23&title=Profile%20Views)
 Welcome to my GitHub profile! 🚀 I'm a backend developer passionate about crafting scalable, secure, and efficient solutions. My expertise spans developing APIs, microservices, and full-stack applications, focusing on clean code and modern architectures.
 
 ---
