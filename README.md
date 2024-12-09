@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Víctor Hugo Bravo García!</h1>
-### 🌟 Backend Developer | IoT Solutions Specialist | AI Enthusiast
+### 🌟 Backend Developer | AI Enthusiast
 
 ---
 Welcome to my GitHub profile! 🚀 I'm a backend developer passionate about crafting scalable, secure, and efficient solutions. My expertise spans developing APIs, microservices, and full-stack applications, focusing on clean code and modern architectures.
