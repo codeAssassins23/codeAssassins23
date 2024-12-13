@@ -47,7 +47,7 @@ Welcome to my GitHub profile! 🚀 I'm a backend developer passionate about craf
 
 ## 📫 Let's Connect!
 - 📧 Email: [bravovictorhugo11@gmail.com](mailto:bravovictorhugo11@gmail.com)
-- 🌐 LinkedIn: [Víctor Hugo Bravo García](https://linkedin.com/in/victor-hugo-bravo-garcia)
+- 🌐 LinkedIn: [Víctor Hugo Bravo García]([https://linkedin.com/in/victor-hugo-bravo-garcia](https://www.linkedin.com/in/victor-hugo-bravo-garcia-99661b272/)
 - 💻 GitHub: [codeAssassins23](https://github.com/codeAssassins23)
 
 ---
