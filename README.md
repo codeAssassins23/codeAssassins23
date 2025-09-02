@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Víctor Hugo Bravo García!</h1>
+---
 ## 🌟 Backend Developer | AI Enthusiast
 
 ---
